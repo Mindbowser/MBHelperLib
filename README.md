@@ -1,2 +1,2 @@
-# MBOAuth
-oAuth Java library with Basic support for now
+# MBHelperLib 
+Helper Java library with Login/Email Sending/Rest API best practises etc. Can use for any new project
